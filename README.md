@@ -1,4 +1,4 @@
-# About-Library
+# About-GASCT Library Thennangur
 Government Arts and Science College Library website, an Institutional Repository (IR) 
 About the Library
 Government Arts & Science College Library
